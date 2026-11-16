@@ -8,6 +8,7 @@ Wissensbibliothek (Obsidian-kompatibel, reine Markdown-Dateien).
 - [[Immobilien/Wissen/Kennzahlen beim Kauf]] – Faktor, Rendite, Cashflow, Vermögenszuwachs
 - [[Immobilien/Wissen/Wie oft ist der Cashflow positiv – Realität]] – Studien und Marktstand 11/2026
 - [[Immobilien/Wissen/Warum Zeit hilft und das Risiko nach der Zinsbindung]] – Miete steigt, Schuld sinkt, Anschlusszins
+- [[Immobilien/Wissen/Guter, neutraler und schlechter Kauf im Vergleich]] – drei Szenarien mit allen Zahlen, Rendite erklärt
 - [[Immobilien/Lernjournal/2026-11-16 Antizyklisch kaufen]] – Stichpunkte: was ich gelernt habe
 - [[Immobilien/Assistent/Konzept Immobilienassistent]] – Faktoren, Gewichte und offene Fragen für das Bewertungstool
 
